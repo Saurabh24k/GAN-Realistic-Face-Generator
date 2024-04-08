@@ -1,0 +1,3 @@
+img_align_celeba/
+discriminator.pth
+generator.pth
